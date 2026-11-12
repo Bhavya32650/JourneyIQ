@@ -11,7 +11,7 @@ Try the deployed JourneyIQ application:
 
 Watch the output video to see the JourneyIQ application and its main features:
 
-**Project Demo Video:** [Watch JourneyIQ Demo](PASTE_YOUR_VIDEO_URL_HERE)
+**Project Demo Video:** [Watch JourneyIQ Demo](https://drive.google.com/file/d/1xyfdHBUaf8_h5F_R7yX_irjb3bPaP_4G/view?usp=sharing)
 
 The demonstration video covers:
 
