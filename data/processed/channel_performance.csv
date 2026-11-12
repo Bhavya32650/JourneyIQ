@@ -1,0 +1,4 @@
+channel,total_sessions,converted_sessions,abandoned_sessions,conversion_rate_pct,abandonment_rate_pct,support_contacts
+support,3299,684,2615,20.73,79.27,654
+web,3299,684,2615,20.73,79.27,653
+app,3299,683,2616,20.7,79.3,655

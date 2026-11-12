@@ -1,0 +1,6 @@
+module,execution_time_seconds,peak_memory_mb,status,error
+Data Validation,1.348,101.973,SUCCESS,
+Funnel and Channel Analytics,118.7001,101.5689,SUCCESS,
+Anomaly Detection,2.5556,98.4926,SUCCESS,
+Identity Stitching,6.6581,98.4885,SUCCESS,
+Anomaly Evaluation,0.1122,0.3771,SUCCESS,

@@ -1,0 +1,7 @@
+page_id,page_name,page_type
+PAGE-000001,Home,landing
+PAGE-000002,Catalog,listing
+PAGE-000003,Product Detail,product
+PAGE-000004,Cart,cart
+PAGE-000005,Checkout,checkout
+PAGE-000006,Confirmation,confirmation

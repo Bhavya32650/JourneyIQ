@@ -1,0 +1,2 @@
+ground_truth_count,detected_count,true_positives,false_positives,false_negatives,precision_pct,recall_pct,f1_score_pct
+291,291,291,0,0,100.0,100.0,100.0

@@ -1,0 +1,15 @@
+{
+  "checks": {
+    "customer_pk_unique": true,
+    "session_pk_unique": true,
+    "event_pk_unique": true,
+    "session_fk_valid": true,
+    "customer_fk_valid": true,
+    "product_fk_valid": true,
+    "page_fk_valid": true,
+    "allowed_channels": true,
+    "timestamps_parse": true
+  },
+  "passed": 9,
+  "failed": 0
+}

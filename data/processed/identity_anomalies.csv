@@ -1,0 +1,2 @@
+entity_id,issue_type,severity,rule_id,evidence
+LINK-ERR-000114,INCORRECT_IDENTITY_MERGE,high,RULE-04,"Anonymous ID ANON-0000114 is linked to multiple customers: ['CUS-000057', 'CUS-000058']"

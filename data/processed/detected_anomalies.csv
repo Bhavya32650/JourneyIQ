@@ -1,0 +1,291 @@
+entity_id,issue_type,severity,rule_id,evidence
+EVT-SES-2026-000101-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-000202-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-000303-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-000404-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-000505-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-000606-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-000707-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-000808-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-000909-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001010-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001111-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001212-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001313-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001414-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001515-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001616-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001717-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001818-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-001919-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002020-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002121-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002222-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002323-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002424-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002525-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002626-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002727-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002828-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-002929-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003030-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003131-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003232-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003333-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003434-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003535-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003636-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003737-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003838-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-003939-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004040-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004141-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004242-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004343-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004444-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004545-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004646-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004747-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004848-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-004949-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005050-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005151-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005252-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005353-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005454-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005555-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005656-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005757-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005858-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-005959-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006060-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006161-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006262-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006363-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006464-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006565-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006666-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006767-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006868-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-006969-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007070-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007171-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007272-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007373-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007474-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007575-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007676-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007777-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007878-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-007979-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008080-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008181-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008282-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008383-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008484-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008585-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008686-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008787-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008888-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-008989-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009090-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009191-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009292-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009393-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009494-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009595-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009696-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009797-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009898-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-009999-000002,DELAYED_INGESTION,medium,RULE-01,Ingestion delay 7200 seconds
+EVT-SES-2026-000226-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-000226
+EVT-SES-2026-007684-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-007684
+EVT-SES-2026-000678-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-000678
+EVT-SES-2026-006893-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-006893
+EVT-SES-2026-003842-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-003842
+EVT-SES-2026-009266-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-009266
+EVT-SES-2026-009153-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-009153
+EVT-SES-2026-002712-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-002712
+EVT-SES-2026-005198-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-005198
+EVT-SES-2026-001695-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-001695
+EVT-SES-2026-006667-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-006667
+EVT-SES-2026-001582-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-001582
+EVT-SES-2026-000565-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-000565
+EVT-SES-2026-004859-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-004859
+EVT-SES-2026-005650-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-005650
+EVT-SES-2026-008475-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-008475
+EVT-SES-2026-008249-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-008249
+EVT-SES-2026-001356-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-001356
+EVT-SES-2026-003955-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-003955
+EVT-SES-2026-007006-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-007006
+EVT-SES-2026-007119-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-007119
+EVT-SES-2026-007910-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-007910
+EVT-SES-2026-005424-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-005424
+EVT-SES-2026-001017-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-001017
+EVT-SES-2026-006328-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-006328
+EVT-SES-2026-005311-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-005311
+EVT-SES-2026-005989-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-005989
+EVT-SES-2026-008927-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-008927
+EVT-SES-2026-004407-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-004407
+EVT-SES-2026-007345-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-007345
+EVT-SES-2026-007232-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-007232
+EVT-SES-2026-001808-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-001808
+EVT-SES-2026-002599-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-002599
+EVT-SES-2026-008588-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-008588
+EVT-SES-2026-001921-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-001921
+EVT-SES-2026-002825-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-002825
+EVT-SES-2026-004633-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-004633
+EVT-SES-2026-006215-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-006215
+EVT-SES-2026-006441-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-006441
+EVT-SES-2026-008362-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-008362
+EVT-SES-2026-003616-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-003616
+EVT-SES-2026-002486-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-002486
+EVT-SES-2026-009944-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-009944
+EVT-SES-2026-004520-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-004520
+EVT-SES-2026-009831-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-009831
+EVT-SES-2026-006554-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-006554
+EVT-SES-2026-009492-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-009492
+EVT-SES-2026-002938-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-002938
+EVT-SES-2026-004181-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-004181
+EVT-SES-2026-004746-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-004746
+EVT-SES-2026-005537-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-005537
+EVT-SES-2026-003390-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-003390
+EVT-SES-2026-000339-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-000339
+EVT-SES-2026-009379-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-009379
+EVT-SES-2026-000791-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-000791
+EVT-SES-2026-007458-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-007458
+EVT-SES-2026-008701-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-008701
+EVT-SES-2026-000452-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-000452
+EVT-SES-2026-002034-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-002034
+EVT-SES-2026-005876-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-005876
+EVT-SES-2026-004972-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-004972
+EVT-SES-2026-001130-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-001130
+EVT-SES-2026-002373-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-002373
+EVT-SES-2026-009718-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-009718
+EVT-SES-2026-002260-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-002260
+EVT-SES-2026-009040-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-009040
+EVT-SES-2026-003164-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-003164
+EVT-SES-2026-003503-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-003503
+EVT-SES-2026-008136-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-008136
+EVT-SES-2026-001243-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-001243
+EVT-SES-2026-004068-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-004068
+EVT-SES-2026-000904-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-000904
+EVT-SES-2026-008023-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-008023
+EVT-SES-2026-007797-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-007797
+EVT-SES-2026-003051-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-003051
+EVT-SES-2026-008814-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-008814
+EVT-SES-2026-002147-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-002147
+EVT-SES-2026-001469-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-001469
+EVT-SES-2026-003277-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-003277
+EVT-SES-2026-004294-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-004294
+EVT-SES-2026-005085-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-005085
+EVT-SES-2026-007571-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-007571
+EVT-SES-2026-006780-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-006780
+EVT-SES-2026-009605-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-009605
+EVT-SES-2026-000113-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-000113
+EVT-SES-2026-003729-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-003729
+EVT-SES-2026-006102-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-006102
+EVT-SES-2026-005763-000007,DUPLICATE_PURCHASE_EVENT,high,RULE-02,Repeated purchase reference for order ORD-005763
+SES-2026-000097,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-000194,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-000291,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-000388,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-000485,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-000582,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-000679,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-000776,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-000873,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-000970,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001067,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001164,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001261,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001358,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001455,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001552,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001649,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001746,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001843,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-001940,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002037,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002134,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002231,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002328,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002425,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002522,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002619,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002716,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002813,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-002910,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003007,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003104,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003201,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003298,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003395,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003492,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003589,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003686,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003783,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003880,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-003977,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004074,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004171,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004268,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004365,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004462,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004559,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004656,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004753,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004850,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-004947,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005044,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005141,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005238,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005335,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005432,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005529,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005626,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005723,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005820,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-005917,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006014,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006111,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006208,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006305,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006402,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006499,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006596,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006693,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006790,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006887,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-006984,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007081,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007178,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007275,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007372,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007469,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007566,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007663,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007760,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007857,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-007954,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008051,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008148,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008245,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008342,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008439,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008536,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008633,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008730,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008827,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-008924,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009021,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009118,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009215,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009312,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009409,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009506,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009603,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009700,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009797,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009894,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
+SES-2026-009991,BOT_TRAFFIC,medium,RULE-03,Session marked as bot traffic
