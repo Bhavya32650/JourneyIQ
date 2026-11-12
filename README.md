@@ -1,6 +1,27 @@
 
 # JourneyIQ – Cross-Channel Customer Journey Analytics & Friction Detection
 
+## Live Demo
+
+Try the deployed JourneyIQ application:
+
+**Live Application:** [Open JourneyIQ](https://journeyiq-9iaegnicxad4k5s6v8qstc.streamlit.app)
+
+## Output Video / Project Demo
+
+Watch the output video to see the JourneyIQ application and its main features:
+
+**Project Demo Video:** [Watch JourneyIQ Demo](PASTE_YOUR_VIDEO_URL_HERE)
+
+The demonstration video covers:
+
+- Business Overview dashboard and key performance indicators.
+- Customer Journey Funnel and drop-off analysis.
+- Channel Performance comparison.
+- Anomaly Detection results.
+- Session Explorer and event history.
+- Performance Benchmark results.
+
 ## 1. Project Overview
 
 JourneyIQ is a customer journey analytics platform that helps businesses understand how customers interact with their digital channels, identify where customers drop off during the purchase journey, and detect unusual activities that may affect conversion.
@@ -418,6 +439,7 @@ The tests cover starter data availability, data relationships, validation, anoma
 | `anomaly_evaluation_details.csv` | Record-level evaluation comparison |
 | `benchmark_results.csv` | Execution-time and memory benchmark results |
 
+
 ## 13. Business Benefits
 
 JourneyIQ can help business teams:
@@ -451,7 +473,7 @@ The platform provides analytical evidence to support decisions. It does not auto
 - Add role-based access control and deployment monitoring.
 - Evaluate the system using independently labelled real-world data.
 
-## 15. Interview / Project Explanation
+## 15. Project Explanation
 
 ### Short Explanation
 
@@ -460,21 +482,6 @@ JourneyIQ is a cross-channel customer journey analytics platform. Its main aim i
 ### What Makes the Project Useful?
 
 JourneyIQ does more than count purchases. It shows how customers move through the purchase funnel, where they stop, how channels perform, and which unusual events may need investigation. This gives business teams clearer information for improving customer experience and conversion.
-
-### Interview Questions to Prepare
-
-1. What is customer journey analytics?
-2. What is a conversion funnel?
-3. What are conversion rate and abandonment rate?
-4. Why do we need session-level analysis?
-5. What is anomaly detection?
-6. How are bot traffic and duplicate purchase events identified?
-7. What is identity stitching?
-8. Why should identity conflicts be handled carefully?
-9. What are precision, recall, and F1-score?
-10. Why can synthetic-data evaluation scores differ from real-world performance?
-11. Why did you use Streamlit and Plotly?
-12. What does the performance benchmark measure?
 
 ## 16. Conclusion
 
